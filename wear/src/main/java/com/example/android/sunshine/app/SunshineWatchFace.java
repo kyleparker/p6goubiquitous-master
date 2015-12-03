@@ -158,8 +158,8 @@ public class SunshineWatchFace extends CanvasWatchFaceService {
 
         private Calendar mCalendar;
 
-        private String mHighTemp = "-";
-        private String mLowTemp = "-";
+        private String mHighTemp = "77°";
+        private String mLowTemp = "47°";
         private String mAmString;
         private String mPmString;
         private String mTomorrowString;

@@ -10,7 +10,7 @@
     <dimen name="text_medium_size_round">20dp</dimen>
 
     <dimen name="x_offset">12dp</dimen>
-    <dimen name="x_offset_round">36dp</dimen>
+    <dimen name="x_offset_round">24dp</dimen>
     <dimen name="x_padding">4dp</dimen>
     <dimen name="x_temp_offset">40dp</dimen>
     <dimen name="x_temp_offset_round">80dp</dimen>
