@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SunshineWear</string>
+    <string name="watchface_name">Sunshine Weather</string>
+
+    <string name="content_am">AM</string>
+    <string name="content_tomorrow">Tomorrow</string>
+    <string name="content_pm">PM</string>
+</resources>

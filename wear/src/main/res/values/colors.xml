@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_bg">#03A9F4</color>
+    <color name="default_secondary_text">#FAFAFA</color>
+
+    <color name="bg_top">#000000</color>
+    <color name="time_text">#ffffff</color>
+    <color name="secondary_text">#FAFAFA</color>
+    <color name="temperature_text">#ffffff</color>
+
+    <color name="sunny_bg">#FFAB00</color>
+    <color name="sunny_secondary_text">#FFAB00</color>
+    <color name="cloudy_bg">#616161</color>
+    <color name="cloudy_secondary_text">#BDBDBD</color>
+    <color name="rainy_bg">#455A64</color>
+    <color name="rainy_secondary_text">#78909C</color>
+</resources>
