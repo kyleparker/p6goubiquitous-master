@@ -20,3 +20,4 @@ Through this project, you will:
 * Added round and square watch faces.
 * Added MessageApi to communicate between the wearable and connected device. From the connected device, weather information is sent to the wearable based on the SunshineSyncAdapter. When the watch face is addded to the wearable, a message is sent to the connected device to retrieve the current temperature and weather.
 * On the watch face, the display consists of the time, current weather icon, high and low temperatures and tomorrow's weather icon.
+* The watch face display changes based on the current weather conditions - rainy, cloudy and sunny weather each has a unique color set that affects the AM/PM indicator, weekday, month/day and the background color for the bottom portion of the watch face.
